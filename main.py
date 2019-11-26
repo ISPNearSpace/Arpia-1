@@ -1,5 +1,5 @@
 from datetime import datetime
-from SI1145.SI1145 as SI1145
+import SI1145.SI1145 as SI1145
 import time
 
 
